@@ -7,7 +7,7 @@ Independent study on combining net art and relational aesthetics. (Andrew Bernst
 - *net.art/web.audio exploration* 
 - *making art from relationships*
 - *getting Andrew to the 2016 web audio conference!*
-- 
+
 ####Weeks
 1. [Befriending the terminal and git](/week1)
 2. [Navigating a node module, + object-oriented interfaces](/week2)
