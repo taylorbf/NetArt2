@@ -1,5 +1,7 @@
 # Week 2: Navigating a js module + object-oriented interfaces
 
+Review [JS objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript) if necessary. This is a big read, but worth it.
+
 ### Exercise:
 
 - Fork [NexusUI](http://www.github.com/lsu-emdm/nexusui) on github 
@@ -11,5 +13,5 @@
 Once you have completed your interface:
 - Build the project
 - Send a pull request to the main lsu-emdm fork
-- Attach a few sentences in the pull request: How does nexusUI take advantage of object-orientedness, especially in widget inheritance?
+- Attach a few sentences in the pull request: How does nexusUI take advantage of object-orientedness?
 
