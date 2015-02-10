@@ -11,7 +11,7 @@ Independent study on combining net art and relational aesthetics. (Andrew Bernst
 ####Weeks
 1. [Befriending the terminal and git](/week1)
 2. [Navigating a node module, + object-oriented interfaces](/week2)
-3. [Making a bower package](/week3)
+3. [Making a basic JS library](/week3)
 4. [Beginning your own (web audio or web art) library](/week4)
 
 ####Possible future topics
