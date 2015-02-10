@@ -1,0 +1,52 @@
+
+<!doctype html>
+<html>
+<head>
+	<title>Google img search template</title>
+	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	<script type="text/javascript">google.load("search", "1");</script>
+	<script type="text/javascript">
+
+		var imageSearch;
+
+		function imgSearch(keyword) {
+			
+			// Create an Image Search instance.
+			imageSearch = new google.search.ImageSearch();
+
+			// Set searchComplete as the callback function when a search is 
+			// complete.  The imageSearch object will have results in it.
+			imageSearch.setSearchCompleteCallback(this, searchComplete, null);
+
+			imageSearch.setRestriction(
+ 			google.search.ImageSearch.RESTRICT_IMAGESIZE,
+  			google.search.ImageSearch.IMAGESIZE_MEDIUM);
+
+			imageSearch.setResultSetSize(1);
+			
+			//Search query
+			imageSearch.execute(keyword);
+			
+		}
+			
+		function searchComplete() {
+		 	if (imageSearch.results && imageSearch.results.length > 0) {
+				var imgurl = imageSearch.results[0].unescapedUrl;
+				
+				document.body.innerHTML = "<img src="+imgurl+">";
+
+			} else {
+				console.log("error syntax goto quit!");
+			}
+
+		}
+
+		imgSearch("this is a test")
+
+	</script>
+</head>
+<body>
+
+
+</body>
+</html>
