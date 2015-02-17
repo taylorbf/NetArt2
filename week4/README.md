@@ -11,6 +11,7 @@ Look at:
 - [Web Audio Tool](http://www.webaudiotool.com/app/?#)
 - [Patchwork](http://www.patchwork-synth.com/)
 - [WAAX](http://hoch.github.io/WAAX/)
+- [Rhizome](https://github.com/sebpiq/rhizome/) distributed performance platform
 - [List of online analog synth impersonations](http://www.hongkiat.com/blog/virtual-instrument-web-browser/)
 
 Reflect: How do these tools [have different goals, expect different users, afford different amounts of control, help or hinder creativity], and how do they [use similar underlying audio paradigms, relate to computer music techniques]
