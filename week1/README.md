@@ -17,11 +17,11 @@ Read [git, the simple guide](http://rogerdudler.github.io/git-guide/)
 
 Delete your github app! Then, once a day this week, practice command line git with the following actions:
 
-- create a repo
+- create a repo (on github)
 - pull it to your computer
 - commit a file
 - create a new branch called 'dummy'
 - merge that branch back into the master branch
-- delete the repo
+- delete the repo (on github)
 
 
