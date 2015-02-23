@@ -25,3 +25,7 @@ Delete your github app! Then, once a day this week, practice command line git wi
 - delete the repo (on github)
 
 
+
+### Command Line Rondo
+
+[ABBernie's 'Command Line Rondo'](https://www.youtube.com/watch?v=CaSOsyKTWSk)
