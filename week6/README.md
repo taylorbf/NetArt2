@@ -2,7 +2,7 @@
 
 ## Software
 
-Get [LaTeX](http://www.latex-project.org/) (pronounce latek)
+Get a [LaTeX](http://www.latex-project.org/) (pronounce latek) editor. For Mac, I use [TeXworks](http://sourceforge.net/projects/texworks.mirror/)
 
 Get [BibTex](http://www.bibtex.org/) or similar
 
@@ -17,7 +17,14 @@ You can also usually get a Microsoft Word conference template, but you are much 
 
 ## Content
 
-More on this soon...
+- **clarity:** just explain what it is, don't get fancy, enthusiastic or dramatic.
+- avoid vague hyperboles like "the possibilities are infinite"
+- admit the faults of your project. this is research and everyone is learning.
+- good video documentation
+- take time to highlight the aspects that especially seem cool
+- good review of history and citations. 
+- **in fact, I've been told it's best to start with citations, images, and an outline of 'what it is'. then fill in the gaps by describing the images**
+- if you can come up with some way to 'test' or 'verify' your results, that is excellent.
 
 
 
